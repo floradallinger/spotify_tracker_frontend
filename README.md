@@ -1,2 +1,2 @@
 # spotify_tracker_frontend
-I want to use the Spotify API in order to make my own stats
+In this project I will be using the Spotify API in order to track my music habits and see my stats for myself.
